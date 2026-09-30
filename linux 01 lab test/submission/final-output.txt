@@ -1,0 +1,9 @@
+[PASTE ACTUAL FINAL VERIFICATION OUTPUT HERE]
+
+Examples of evidence that may be relevant:
+- final directory listing
+- targets.txt permissions
+- targets.txt ownership
+- restored backup listing
+
+Replace this placeholder with your real output only.
